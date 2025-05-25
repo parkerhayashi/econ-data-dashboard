@@ -3,8 +3,4 @@ uvicorn
 pandas
 numpy
 requests
-plotly
 fredapi
-scikit-learn
-matplotlib
-python-dotenv
