@@ -1,6 +1,6 @@
 # 📊 Economic Data Dashboard
 
-This project provides an interactive economic data dashboard designed to visualize, compare, and analyze macroeconomic indicators across GICS sectors. It leverages data from the Federal Reserve Economic Data (FRED) API and includes a curated mix of daily, weekly, monthly, and annual series—including price indices, production metrics, employment statistics, and sector-specific financial indicators. The dashboard supports U.S. and select global data (e.g., China, Europe) and aims to offer a flexible platform for macroeconomic analysis, forecasting, and investment research.
+This project provides an interactive economic data dashboard designed to visualize, compare, and analyze macroeconomic indicators across GICS sectors. It leverages data from the Federal Reserve Economic Data (FRED) API and includes a curated mix of daily, weekly, monthly, quarterly, and annual series—including price indices, production metrics, employment statistics, and sector-specific financial indicators. The dashboard supports U.S. and select global data (e.g., China, Europe) and aims to offer a flexible platform for macroeconomic analysis, forecasting, and investment research.
 
 ---
 
