@@ -11,9 +11,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-from fastapi.staticfiles import StaticFiles
-app.mount("/static", StaticFiles(directory="static"), name="static")
-
 from backend.routes import data, sectors
 app.include_router(data.router)
 app.include_router(sectors.router)
