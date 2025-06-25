@@ -11,7 +11,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-from backend.routes import data, sectors
+from . import data, sectors
 app.include_router(data.router)
 app.include_router(sectors.router)
 

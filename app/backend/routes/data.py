@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from backend.fred_data import get_series_data
+from fred_data import get_series_data
 
 router = APIRouter()
 

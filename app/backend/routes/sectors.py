@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from backend.gics_mapping import gics_sectors
+from gics_mapping import gics_sectors
 
 router = APIRouter()
 
