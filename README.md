@@ -103,9 +103,14 @@ FRED_API_KEY=your_fred_api_key_here
 
 ## 🧪 Running the App
 
+### 1. Navigate to the backend directory
+```bash
+cd app/backend
+```
+
 ### Run the FastAPI Backend
 ```bash
-uvicorn app.main:app --reload
+uvicorn routes.main:app --reload
 ```
 
 ### Access API Docs
