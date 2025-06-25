@@ -103,7 +103,7 @@ FRED_API_KEY=your_fred_api_key_here
 
 ## 🧪 Running the App
 
-### 1. Navigate to the backend directory
+### Navigate to the backend directory
 ```bash
 cd app/backend
 ```
