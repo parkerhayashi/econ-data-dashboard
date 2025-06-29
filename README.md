@@ -2,6 +2,9 @@
 
 This project provides an interactive economic data dashboard designed to visualize, compare, and analyze macroeconomic indicators across GICS sectors. It leverages data from the Federal Reserve Economic Data (FRED) API and includes a curated mix of daily, weekly, monthly, quarterly, and annual series—including price indices, production metrics, employment statistics, and sector-specific financial indicators. The dashboard supports U.S. and select global data (e.g., China, Europe) and aims to offer a flexible platform for macroeconomic analysis, forecasting, and investment research.
 
+![Alt text](images/dashboard_preview.png)
+You can find the project preview [here](https://econ-dashboard-live.vercel.app)
+
 ---
 
 ## 🧰 Tech Stack
@@ -9,8 +12,6 @@ This project provides an interactive economic data dashboard designed to visuali
 ### 🔙 Backend
 - Python 3.12
 - FastAPI – REST API framework
-- pandas, numpy – Data processing
-- plotly, matplotlib – Visualization utilities
 - fredapi – FRED data access
 - uvicorn – ASGI server
 
